@@ -68,6 +68,7 @@ Jeżeli chcesz dodać coś od siebie przeczytaj [Twój wkład](sites/contribute.
 * [DeltaChat](https://delta.chat/pl/)
 * [Session](https://getsession.org/)
 * [cyph](https://www.cyph.com/)
+* [Bitmessage](https://wiki.bitmessage.org/)
 
 ## Unikaj <img width="16" src="media/no.png">
 
